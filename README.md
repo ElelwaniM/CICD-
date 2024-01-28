@@ -1,2 +1,2 @@
 # CICD-
-The project ustilizes jenkins for cicd this is version 1
+The project ustilizes jenkins for cicd using the AWS EC2 instance
